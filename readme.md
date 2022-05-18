@@ -1,4 +1,4 @@
-# Reactivity (WIP)
+# Reactivity (Work In Progress)
 >Deep Dive Into React(Bahasa) 
 
 ## Apa Ini ?
