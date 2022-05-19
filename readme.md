@@ -5,7 +5,7 @@
 # Reactivity (Work In Progress)
 >Deep Dive Into React(Bahasa) 
 
-![reactivity](./assets/image_1.png)
+![reactivity](./assets/image_1.jpg)
 
 ## Apa Ini ?
 
