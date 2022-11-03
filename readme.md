@@ -1,5 +1,4 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6555479.svg)](https://doi.org/10.5281/zenodo.6555479)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 
 # Reactivity
