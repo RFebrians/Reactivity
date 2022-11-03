@@ -2,7 +2,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 
-# Reactivity (Work In Progress)
+# Reactivity
 >Deep Dive Into React(Bahasa) 
 
 ![reactivity](./assets/image_1.jpg)
@@ -51,9 +51,3 @@ community forum , (Education Platform)(https://github.com/freeCodeCamp/freeCodeC
 - Vercel.com , Deployment React Apps (https://vercel.com)
 - Heroku.com , Deployment Web Application (https://heroku.com)
 ```
-
-
-## Berkontribusi
-
-
-## To Do :
